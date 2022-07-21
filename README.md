@@ -4,7 +4,7 @@ To Do List App in JavaScript
 
 # About the project
 
- <img  src="/Users/shraddhagarat/Downloads/todolist/images/screenshot.png" alt="Website screenshot" />
+ <img  src="https://github.com/shraddhagarat/todolist/blob/main/images/screenshot.png" alt="Website screenshot" />
 
 A simple to do liat app built using HTML, CSS and Javascript. It uses computer local storage to save data. Background images are fetched from Unsplash .
 
